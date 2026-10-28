@@ -1,43 +1,35 @@
-# Mitchell Brown | Software Engineer
+# Mitchell Brown
+### Software Engineer | Full-Stack Development | Python · JavaScript · React · Node.js · C#
 
-I'm a software engineering professional with experience across product operations, presales, and application development. I build full-stack web applications with JavaScript, React, Node.js, Express, Python, Flask, C#, and SQL.
+I build web applications and backend services, bringing experience from fintech product operations and presales to software engineering. My projects focus on connecting user interfaces, APIs, and databases—and improving their reliability through validation, testing, and clear documentation.
 
-I'm interested in software engineering opportunities where I can contribute to product development, strengthen backend systems, and keep growing through hands-on engineering work.
+**Open to software engineering opportunities**, especially full-stack and backend development.
 
-## Featured projects
+[GitHub Projects](https://github.com/mitch7553-ctrl?tab=repositories) · [Live React Demo](https://mitch7553-ctrl.github.io/monsters-rolodex/)
 
-### [SmartBrain — Full-stack face detection app](https://github.com/mitch7553-ctrl/smart-brain-front-end)
-React frontend backed by a [Node.js / Express API](https://github.com/mitch7553-ctrl/smart-brain-back-end), PostgreSQL, and an external image-analysis service.
+## Selected projects
 
-- User registration and sign-in
-- Database-backed user profiles and image entry tracking
-- Image submission and face detection through a backend API
+| Project | What it demonstrates | Source / demo |
+| --- | --- | --- |
+| **SmartBrain** | Full-stack face-detection application with a React frontend, Node.js/Express API, PostgreSQL user records, and Clarifai integration. | [Frontend](https://github.com/mitch7553-ctrl/smart-brain-front-end) · [Backend](https://github.com/mitch7553-ctrl/smart-brain-back-end) |
+| **Monsters Rolodex** | Searchable React/Vite application with public-API data fetching, reusable components, and responsive cards. | [Code](https://github.com/mitch7553-ctrl/monsters-rolodex) · [Live demo](https://mitch7553-ctrl.github.io/monsters-rolodex/) |
+| **Flask Portfolio** | Python/Flask web application with server-rendered templates and a contact form. | [Code](https://github.com/mitch7553-ctrl/portfolio) |
+| **CRWN Clothing v2** *(course-based project)* | React/Redux/Firebase practice in state management and e-commerce application structure. | [Code](https://github.com/mitch7553-ctrl/crwn-clothing-v2) |
 
-**Engineering focus:** API integration, validation, responsive error handling, and configuration management. Reliability improvements are under review.
+**Recent engineering work:** I'm improving SmartBrain's validation, API error handling, and automated checks. Those updates are in draft pull requests; they are not yet deployed or merged.
 
-### [Monsters Rolodex — React application](https://github.com/mitch7553-ctrl/monsters-rolodex)
-Searchable card directory using React, Vite, a public users API, and dynamic avatars.
+## Technical skills
 
-- Component-based UI with live search
-- Data fetching and client-side filtering
-- [Live demo](https://mitch7553-ctrl.github.io/monsters-rolodex/)
+- **Languages:** Python, JavaScript, C#, SQL, HTML, CSS
+- **Frontend:** React, Vite, Redux
+- **Backend:** Node.js, Express, Flask, ASP.NET Core
+- **Data:** PostgreSQL, Firebase
+- **Developer tools:** Git, GitHub Actions, VS Code, Docker
 
-### [Portfolio — Python/Flask](https://github.com/mitch7553-ctrl/portfolio)
-Personal portfolio application built with Flask, HTML, and CSS. Includes project pages and a contact form.
+## What I bring to a team
 
-### [CRWN Clothing v2 — React / Redux / Firebase learning project](https://github.com/mitch7553-ctrl/crwn-clothing-v2)
-Course-based e-commerce application exploring state management and Firebase integration. Clearly labeled as a learning project.
+Alongside development projects, my fintech work includes translating business requirements into technical discussions, coordinating cross-functional delivery, troubleshooting integrations, and communicating with stakeholders. I enjoy bridging product requirements with practical implementation.
 
-## Technologies
+## Connect
 
-**Frontend:** JavaScript, React, HTML, CSS  
-**Backend:** Node.js, Express, Python, Flask, C#, ASP.NET Core  
-**Databases:** PostgreSQL, SQL, Firebase  
-**Tools:** Git, GitHub, Docker, VS Code
-
-## See my work
-
-- [All repositories](https://github.com/mitch7553-ctrl?tab=repositories)
-- [Monsters Rolodex live demo](https://mitch7553-ctrl.github.io/monsters-rolodex/)
-
-I welcome feedback on my projects and opportunities to contribute to engineering teams.
+Explore my [repositories](https://github.com/mitch7553-ctrl?tab=repositories), review the code behind my projects, or try the [Monsters Rolodex live demo](https://mitch7553-ctrl.github.io/monsters-rolodex/).
